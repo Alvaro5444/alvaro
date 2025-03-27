@@ -6,7 +6,7 @@ package coche;
  * 
  */
 public class Coche {
-
+    private String entornodesarrollo;
     /**
      * @return the nombre
      */
